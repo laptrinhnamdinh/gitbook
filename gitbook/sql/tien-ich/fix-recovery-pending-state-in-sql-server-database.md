@@ -1,0 +1,19 @@
+---
+description: Fix Recovery Pending State in SQL Server Database
+---
+
+# Fix Recovery Pending State in SQL Server Database
+
+```sql
+ALTER DATABASE [DBName] SET EMERGENCY;
+GO
+
+ALTER DATABASE [DBName] set single_user
+GO
+
+DBCC CHECKDB ([DBName], REPAIR_ALLOW_DATA_LOSS) WITH ALL_ERRORMSGS;
+GO 
+
+ALTER DATABASE [DBName] set multi_user
+GO
+```
