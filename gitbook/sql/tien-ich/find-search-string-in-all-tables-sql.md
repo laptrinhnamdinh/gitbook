@@ -1,4 +1,4 @@
-# Find/Search string in all table SQL
+# Find/Search string in all tables SQL
 
 ```sql
 USE DATABASE_NAME
