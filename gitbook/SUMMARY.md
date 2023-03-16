@@ -20,3 +20,4 @@
     * [Hàm tính thâm niên công tác trong SQL](sql/tien-ich/ham-tinh-tham-nien-cong-tac-trong-sql.md)
     * [Get size of Database](sql/tien-ich/get-size-of-database.md)
     * [Tìm kiếm, xóa bản ghi trùng lặp trong sql](sql/tien-ich/tim-kiem-xoa-ban-ghi-trung-lap-trong-sql.md)
+    * [Find/Search string in all table SQL](sql/tien-ich/find-search-string-in-all-table-sql.md)
