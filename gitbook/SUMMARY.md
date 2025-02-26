@@ -21,3 +21,7 @@
     * [Get size of Database](sql/tien-ich/get-size-of-database.md)
     * [Tìm kiếm, xóa bản ghi trùng lặp trong sql](sql/tien-ich/tim-kiem-xoa-ban-ghi-trung-lap-trong-sql.md)
     * [Find/Search string in all tables SQL](sql/tien-ich/find-search-string-in-all-tables-sql.md)
+
+## JS
+
+* [Thư viện JS hay](js/thu-vien-js-hay.md)
